@@ -1,8 +1,6 @@
 # DeepResearch
 
-DeepResearch is an AI-assisted OSINT research package. It generates search queries,
-collects public web evidence through SerpApi, reads source content, and returns a
-structured research result.
+DeepResearch is an AI-assisted OSINT research package. It generates search queries, collects public web evidence through SerpApi.
 
 ## Features
 
